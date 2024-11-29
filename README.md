@@ -43,6 +43,8 @@
    - Mencetak pesan konfirmasi atau pesan bahwa data tidak ditemukan
 
 # run 
+![Screenshot 2024-11-29 143149](https://github.com/user-attachments/assets/7cc3e699-0add-4f6a-b132-70f91efb42b0)
+![Screenshot 2024-11-29 143227](https://github.com/user-attachments/assets/92b3f552-97aa-4486-b05e-dc3ae644d577)
 
 # flowchart
 
