@@ -16,3 +16,6 @@
      Contoh penggunaan: d(["hello", "world", "hello"])menghasilkan ['helo', 'wrd'].
 
 # praktikum 6
+![Screenshot 2024-11-29 140527](https://github.com/user-attachments/assets/617b769f-b6d6-4797-8385-25e2e77aa814)
+![Screenshot 2024-11-29 140606](https://github.com/user-attachments/assets/0f63ce79-c9b9-4947-8b21-38d0b41c14c5)
+![Screenshot 2024-11-29 140639](https://github.com/user-attachments/assets/264f5c45-5f25-44d0-b681-337e399581eb)
